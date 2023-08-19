@@ -1,4 +1,6 @@
 # LipSync
+## Google Colab link : 
+https://colab.research.google.com/drive/1tzANZZcHBs7Mkx2j0UjcmkjZ-dhckKdA#scrollTo=ZgtO08V28ANf
 
 ## STEP1: Download Youtube Video
 https://youtu.be/YMuuEv37s0o?si=Fucmgiqjw7UYzz4Z
