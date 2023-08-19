@@ -10,7 +10,7 @@ project_name = "English to Hinglish Translation using Advanced Language Models"
 list_of_files = [
     ".github/workflows/.gitkeep",
     "Dataset/METHOD-1.txt",
-    "LipSync_Wav2Lip.ipynb"
+    "LipSync_Wav2Lip.ipynb",
     "requirements.txt"
     
 
