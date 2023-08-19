@@ -1,0 +1,7 @@
+pytube
+moviepy
+librosa
+soundfile
+scipy
+
+#e.
